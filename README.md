@@ -1,5 +1,7 @@
 # Fullstack web application template
 
+Fullstack web-app template for easy project scaffolding.
+
 Tech stack:
 
 - frontend: React, TypeScript, TailwindCSS, Vite
@@ -13,7 +15,7 @@ Tech stack:
 - [bun](https://bun.com)
 - [Python](https://python.org) (>=3.14 required)
 
-Note: if you have Node.js installed you can install bun by running `npm install -g bun`
+If you have Node.js, installed on your machine, run `npm install -g bun` to install bun globally.
 
 ### Frontend
 
